@@ -28,13 +28,3 @@ The project combines embedded systems, wireless communication, custom PCB design
 | **Dongwen Yang** | MCU, Mobile App, Wireless Communication |
 | **John Denning** | TBD |
 | **Scott Bremmer** | TBD |
-
-## Project Status
-
-**Current Phase:** System Design & Development
-
-We are currently developing the system architecture, selecting components, and designing individual subsystems.
-
----
-
-<small>Developed as part of the Electrical and Computer Engineering Capstone Program at Oregon State University.</small>
